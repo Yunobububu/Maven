@@ -7,6 +7,8 @@
           <element id="module-output" name="FirstMaven" />
         </element>
         <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: junit:junit:4.11" />
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.0.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context:5.0.5.RELEASE" />
@@ -16,6 +18,7 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-web:5.0.5.RELEASE" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.11" />
           <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:2.6.0" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.4.5" />
         </element>
       </element>
       <element id="directory" name="META-INF">
